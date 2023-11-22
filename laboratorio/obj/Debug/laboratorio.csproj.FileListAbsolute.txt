@@ -1,0 +1,17 @@
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\bin\Debug\laboratorio.exe.config
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\bin\Debug\laboratorio.exe
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\bin\Debug\laboratorio.pdb
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.csproj.AssemblyReference.cache
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.Form1.resources
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.Properties.Resources.resources
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.view.Form_Task_3_1.resources
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.csproj.GenerateResource.cache
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.csproj.CoreCompileInputs.cache
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.exe
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.pdb
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.view.Form_Task_3_2.resources
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.view.Form_Task_3_3.resources
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.view.Form_Task_3_4.resources
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.view.Form_Task_3_5.resources
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.view.Form_Task_3_6.resources
+C:\Users\Programador\Documents\Matematica_Lab\C_sharp_3\laboratorio\obj\Debug\laboratorio.view.ShapeForm.resources
